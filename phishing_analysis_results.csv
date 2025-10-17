@@ -1,0 +1,412 @@
+domain,keyword,status,risk_score,is_phishing,confidence,content_similarity,visual_similarity,llm_indicators,title,has_forms,financial_keywords,detection_method,monitoring_date,error
+indiapoi.xyz,indianoil,ERROR,0.5,,,,,,,,,Similarity Jaro-Winkler,2025-10-11,"HTTPSConnectionPool(host='indiapoi.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124d94170>: Failed to resolve 'indiapoi.xyz' ([Errno -5] No address associated with hostname)""))"
+indianidol16.lat,indianoil,ANALYZED,0.091,False,0.0,0.043,0.929,,Indian Idol Season 16 Sony Tv Show Watch Full Episodes Online - Indian Idol Season 16 Sony Tv Show Watch Full Episodes Online,True,block; indian; official; login,Similarity Jaro-Winkler,2025-10-11,
+indiaintro.com,indianoil,ERROR,0.5,,,,,,,,,Similarity Jaro-Winkler,2025-10-11,"HTTPSConnectionPool(host='indiaintro.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124534800>: Failed to resolve 'indiaintro.com' ([Errno -2] Name or service not known)""))"
+indianitworld.com,indianoil,ANALYZED,0.091,False,0.0,0.016,0.911,,广发体育·(中国)官方网站-GUANGFA SPORT,False,,Similarity Jaro-Winkler,2025-10-11,
+cocoindiano.com,indianoil,ANALYZED,0.091,False,0.0,0.0,0.905,,,False,,Similarity Jaccard,2025-10-11,
+sindaneway.com,indane,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='sindaneway.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124529520>: Failed to resolve 'sindaneway.com' ([Errno -5] No address associated with hostname)""))"
+indaindeer.com,indane,ANALYZED,0.091,False,0.0,0.0,0.914,,indaindeer.com,True,block; register,Similarity Jaro-Winkler,2025-10-11,
+indiandeer.shop,indane,ANALYZED,0.091,False,0.0,0.0,0.932,,,False,,Similarity Jaro-Winkler,2025-10-11,
+findaneurpsychologist.com,indane,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='findaneurpsychologist.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)')))"
+inden.cyou,indane,ANALYZED,0.091,False,0.0,0.0,0.91,,Not Found,False,,Similarity Jaro-Winkler,2025-10-11,
+indiandeer.com,indane,ANALYZED,0.091,False,0.0,0.0,0.914,,Indian Deer,True,block; indian; register,Similarity Jaro-Winkler,2025-10-11,
+aperioclinicalresearch.com,iocl,ANALYZED,0.091,False,0.0,0.001,0.915,,Aperio Clinical Research,True,account; register; block,Full Word Match,2025-10-11,
+iocplu.info,iocl,ANALYZED,0.091,False,0.0,0.124,0.91,,Google,True,block; verify; signin; alert; bob,Similarity Jaro-Winkler,2025-10-11,
+app-inicioclientes.com,iocl,ANALYZED,0.451,False,0.6,0.061,0.911,HIGH: Mobile app impersonation,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+bioclaritydiagnostic.com,iocl,ANALYZED,0.1,False,0.0,0.0,0.902,,Coming Soon,False,,Full Word Match,2025-10-11,
+audioclass.co.in,iocl,ANALYZED,0.091,False,0.0,0.038,0.932,,"AudioClass &#8211; Just Listen and Learn.. Anytime, Anywhere",False,block; login; account; password; register,Full Word Match,2025-10-11,
+estudioclq.com,iocl,ANALYZED,0.1,False,0.0,0.001,0.906,,Inicio,False,card; block,Full Word Match,2025-10-11,
+iocloudstudio.digital,iocl,ANALYZED,0.091,False,0.0,0.0,0.932,,,False,,Full Word Match,2025-10-11,
+www.iocr.pro,iocl,ANALYZED,0.091,False,0.0,0.062,0.91,,Tripleplay - warning,False,block,Similarity Damerau-Levenshtein,2025-10-11,
+studioclub.org,iocl,ANALYZED,0.091,False,0.0,0.0,0.902,,,False,,Full Word Match,2025-10-11,
+servicioclienteenlinea.com,iocl,ANALYZED,0.091,False,0.0,0.0,0.931,,VERIFICA TRANSAC,True,card; block,Full Word Match,2025-10-11,
+en-us-cardioclear7.shop,iocl,ANALYZED,0.1,False,0.0,0.034,0.931,,en-us-cardioclear7.shop,True,block,Full Word Match,2025-10-11,
+iambiocleany.com,iocl,ANALYZED,0.1,False,0.0,0.033,0.886,,Just a moment...,False,,Full Word Match,2025-10-11,
+comunicazioni.iol.it,iocl,ANALYZED,0.091,False,0.0,0.0,0.911,,,False,,Similarity Damerau-Levenshtein,2025-10-11,
+us4.analytics.calabriocloud.com,iocl,ANALYZED,0.211,False,0.2,0.125,0.901,MEDIUM: Very long domain name,,False,,Full Word Match,2025-10-11,
+adarioclimatizacoes.com.br,iocl,ANALYZED,0.1,False,0.0,0.006,0.919,,Adario Climatização - Manutenção em Ar-condicionado em Rio Branco,False,,Full Word Match,2025-10-11,
+bioclinicacr.com,iocl,ANALYZED,0.091,False,0.0,0.0,0.905,,,False,,Full Word Match,2025-10-11,
+truebioclean.com,iocl,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='truebioclean.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da12440f7d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
+apoioclientesantanderdigital.com,iocl,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='apoioclientesantanderdigital.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12441dfd0>: Failed to resolve 'apoioclientesantanderdigital.com' ([Errno -2] Name or service not known)""))"
+pergolabioclimatic.com,iocl,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+indianoflux.com,indianoil,ANALYZED,0.091,False,0.0,0.0,0.932,,,False,,Similarity Jaro-Winkler,2025-10-11,
+indiansgold.com,indianoil,ERROR,0.5,,,,,,,,,Similarity Jaro-Winkler,2025-10-11,"HTTPSConnectionPool(host='indiansgold.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12441cc80>: Failed to resolve 'indiansgold.com' ([Errno -2] Name or service not known)""))"
+indiannopiece.homes,indianoil,ERROR,0.5,,,,,,,,,Similarity Jaro-Winkler,2025-10-11,"HTTPSConnectionPool(host='indiannopiece.homes', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124604e90>: Failed to resolve 'indiannopiece.homes' ([Errno -2] Name or service not known)""))"
+bilfe.top,sbilife,ERROR,0.5,,,,,,,,,Similarity Jaro-Winkler,2025-10-11,"HTTPSConnectionPool(host='bilfe.top', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12441df10>: Failed to resolve 'bilfe.top' ([Errno -5] No address associated with hostname)""))"
+rajeshicicibank.com,icicibank,ANALYZED,0.091,False,0.0,0.056,0.907,,rajeshicicibank.com,False,block; register,Full Word Match,2025-10-11,
+winsbirs.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='winsbirs.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1244f6f90>, 'Connection to winsbirs.com timed out. (connect timeout=10)'))"
+arthasbistro.com,sbi,ANALYZED,0.044,False,0.0,0.427,0.953,,Parked Domain name on Hostinger DNS system,False,card; account; secure; block,Full Word Match,2025-10-11,
+www.see--sbi.fun,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='www.see--sbi.fun', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12441d130>: Failed to resolve 'www.see--sbi.fun' ([Errno -2] Name or service not known)""))"
+xn----7sbitdfjvhcslfig.xn--p1ai,sbi,ANALYZED,0.17,False,0.8,0.266,0.974,MEDIUM: Very long domain name; HIGH: Potential homograph attack,Не опубликован,False,block,Full Word Match,2025-10-11,
+consequencesbir1515.sbs,sbi,ANALYZED,0.09,False,0.0,0.0,0.974,,,False,,Full Word Match,2025-10-11,
+clubmasbienestar.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='clubmasbienestar.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12440cbc0>: Failed to resolve 'clubmasbienestar.com' ([Errno -2] Name or service not known)""))"
+innovaanalyticsbi.com,sbi,ANALYZED,0.451,False,0.6,0.205,0.911,HIGH: Brand name in subdomain,Innova BI Analytics | Analisis de Datos,True,card; block; register; deactivate; payment; verification,Full Word Match,2025-10-11,
+sbindiancollection.com,sbi,ANALYZED,0.1,False,0.0,0.256,0.972,,sbindiancollection.com,False,block,Full Word Match,2025-10-11,
+howisbidenstillpresident.com,sbi,ANALYZED,0.091,False,0.0,0,0.91,,,False,,Full Word Match,2025-10-11,
+nextgensalesbizboost.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.889,,,False,,Full Word Match,2025-10-11,
+sbiyono.link,sbi,ANALYZED,0.991,True,1.0,0.117,0.912,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); CRITICAL: YONO SBI service impersonation (sbiyono),Unlock the Benefits of SBI YONO: Your Ultimate Banking App,False,sbi; account; banking; yono,Full Word Match,2025-10-11,
+yonosbionline.link,sbi,ANALYZED,0.991,True,1.0,0.099,0.894,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); CRITICAL: YONO SBI service impersonation (yonosbi); HIGH: Brand impersonation in title and content,Yono SBI Online â Access Your SBI Banking and More with Ease,False,card; banking; alert; secure; yono; account; sbi,Full Word Match,2025-10-11,
+latribudesbiscornus.fr,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='latribudesbiscornus.fr', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da12440f680>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+sbime.lat,sbi,ANALYZED,0.1,False,0.0,0.097,0.928,,Index of /,False,,Full Word Match,2025-10-11,
+inveritasbio.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='inveritasbio.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124394bc0>: Failed to resolve 'inveritasbio.com' ([Errno -3] Temporary failure in name resolution)""))"
+clinicasosbichos.com.br,sbi,ANALYZED,0.109,False,0.0,0.319,0.923,,SOS Bichos - Beevets,False,card; block,Full Word Match,2025-10-11,
+obrasmenoresbiobio.cl,sbi,ANALYZED,0.09,False,0.0,0.225,0.964,,Obras Menores BIOBIO,True,block; login; password; account; register,Full Word Match,2025-10-11,
+borisbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+trgovhgsbildiriler.sbs,sbi,ANALYZED,0.1,False,0.0,0.321,0.898,,Bu Ä°nternet Adresi EriÅime KapatÄ±lmÄ±ÅtÄ±r,False,block,Full Word Match,2025-10-11,
+whenismitchryansbirthday.com,sbi,ANALYZED,0.091,False,0.0,0.134,0.91,,,False,block,Full Word Match,2025-10-11,
+brugesbitessights.be,sbi,ANALYZED,0.091,False,0.0,0.241,0.91,,Home -,False,password; account; block; login,Full Word Match,2025-10-11,
+posbite.in,sbi,ANALYZED,0.09,False,0.0,0.144,0.965,,POS Bite,False,secure; block; login; register; payment,Full Word Match,2025-10-11,
+kidsbiblestories.shop,sbi,ANALYZED,0.09,False,0.0,0.0,0.969,,,False,,Full Word Match,2025-10-11,
+hairlossbiohack.com,sbi,ANALYZED,0.09,False,0.0,0.0,0.969,,,False,,Full Word Match,2025-10-11,
+adsbiskuat01.click,sbi,ANALYZED,0.1,False,0.3,0.236,0.956,MEDIUM: Suspicious TLD,Site is created successfully!,False,secure,Full Word Match,2025-10-11,
+1biosbioinformatics.info,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='1biosbioinformatics.info', port=443): Read timed out. (read timeout=10)"
+freddysbistrotgourmet.com,sbi,ANALYZED,0.1,False,0.0,0.0,0.953,,Freddy's Bistrot - Restaurant Management System,False,,Full Word Match,2025-10-11,
+hisbim.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.91,,,False,,Full Word Match,2025-10-11,
+eskuvokiallitasbicske.hu,sbi,ANALYZED,0.091,False,0.0,0.237,0.934,,Eskövő kiállítás Bicskén 2026 - Esküvő-kiállitás Bicske,True,block; login; password; account; register; payment,Full Word Match,2025-10-11,
+brandsbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+yonolitesbi.link,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='yonolitesbi.link', port=443): Read timed out. (read timeout=10)"
+kidsbiblestories.store,sbi,ANALYZED,0.09,False,0.0,0.0,0.969,,,False,,Full Word Match,2025-10-11,
+osbik.org,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='osbik.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1245425d0>: Failed to resolve 'osbik.org' ([Errno -5] No address associated with hostname)""))"
+sbiadvancedbrokesractt.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='sbiadvancedbrokesractt.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124528260>: Failed to resolve 'sbiadvancedbrokesractt.com' ([Errno -2] Name or service not known)""))"
+firtusbiznes.uz,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='firtusbiznes.uz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124482cc0>: Failed to resolve 'firtusbiznes.uz' ([Errno -3] Temporary failure in name resolution)""))"
+sbiyonologinmobilebanking.link,sbi,ANALYZED,0.991,True,1.0,0.099,0.926,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); HIGH: Mobile app impersonation; CRITICAL: YONO SBI service impersonation (sbiyono); HIGH: Mobilebanking impersonation; HIGH: Digitalbanking impersonation; HIGH: Brand impersonation in title and content,SBI Yono Login - Access Your Mobile Banking Account Securely and Quickly,False,card; indian; yono; login; account; mobile banking; sbi,Full Word Match,2025-10-11,
+lithopsbio.com.br,sbi,ANALYZED,0.1,False,0.0,0.167,0.955,,Just a moment...,False,,Full Word Match,2025-10-11,
+yono-sbi-app-download.ws,sbi,ANALYZED,0.991,True,1.0,0.09,0.906,HIGH: Yono service impersonation; HIGH: Mobile app impersonation; CRITICAL: YONO SBI service impersonation (yono-sbi),à¤¯à¥à¤¨à¥ à¤à¤¸à¤¬à¥à¤à¤ à¤à¤ª à¤¡à¤¾à¤à¤¨à¤²à¥à¤¡,False,,Full Word Match,2025-10-11,
+rocklandsbirdsanctuary.com,sbi,ANALYZED,0.1,False,0.0,0.3,0.918,,rocklandsbirdsanctuary.com,True,block; register,Full Word Match,2025-10-11,
+fahrschullehrerausbildung.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='fahrschullehrerausbildung.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da124481af0>, 'Connection to fahrschullehrerausbildung.com timed out. (connect timeout=10)'))"
+masbiensi.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='masbiensi.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da124482fc0>, 'Connection to masbiensi.com timed out. (connect timeout=10)'))"
+littleearsbigvoices.com,sbi,ANALYZED,0.1,False,0.0,0.08,0.92,,Private Site,False,,Full Word Match,2025-10-11,
+lecomptoirdestalentsbiltoki.com,sbi,ANALYZED,0.1,False,0.2,0.135,0.951,MEDIUM: Very long domain name,Le Comptoir des Talents Biltoki,False,,Full Word Match,2025-10-11,
+newsbiocapdelhi.com,sbi,ANALYZED,0.1,False,0.0,0.0,0.973,,404 Not Found,False,,Full Word Match,2025-10-11,
+ceresbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+brokersbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+3riversbitcoin.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='3riversbitcoin.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1243e4260>, 'Connection to 3riversbitcoin.com timed out. (connect timeout=10)'))"
+charmsbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+sapiensbiotech.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.923,,,False,,Full Word Match,2025-10-11,
+asvinsbi.space,sbi,ANALYZED,0.451,False,0.6,0,0.91,HIGH: Brand name in subdomain,,False,,Full Word Match,2025-10-11,
+maggiesbigbreak.com,sbi,ANALYZED,0.091,False,0.0,0.097,0.941,,Jennifer Dickinson Writes | Discover Your Story,False,block; indian,Full Word Match,2025-10-11,
+politicsbill.com,sbi,ANALYZED,0.09,False,0.0,0.0,0.97,,,False,,Full Word Match,2025-10-11,
+tregsbiomed.com,sbi,ANALYZED,0.091,False,0.0,0.23,0.892,,TregsBiomed.com domain name is for sale. Inquire now.,True,block,Full Word Match,2025-10-11,
+littlemilesbigmoments.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='littlemilesbigmoments.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+adsbiskuat09.click,sbi,ANALYZED,0.1,False,0.3,0.236,0.956,MEDIUM: Suspicious TLD,Site is created successfully!,False,secure,Full Word Match,2025-10-11,
+sbiyonologin.cc,sbi,ANALYZED,0.1,False,0.6,0.135,0.892,HIGH: Yono service impersonation,à¤à¤¸à¤¬à¥à¤à¤ à¤¯à¥à¤¨à¥ à¤²à¥à¤à¤¿à¤¨,False,,Full Word Match,2025-10-11,
+nettlesbill.com,sbi,ANALYZED,0.09,False,0.0,0.0,0.97,,,False,,Full Word Match,2025-10-11,
+thebadassbossbitch.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='thebadassbossbitch.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124369e50>: Failed to resolve 'thebadassbossbitch.com' ([Errno -2] Name or service not known)""))"
+brushesbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+rsbiocosmetics.org,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='rsbiocosmetics.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da1241dfd10>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+bondsbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+marmarisbiennial.online,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='marmarisbiennial.online', port=443): Read timed out. (read timeout=10)"
+thuisbijlaura.nl,sbi,ANALYZED,0.1,False,0.0,0.211,0.9,,Thuis bij Laura,False,block,Full Word Match,2025-10-11,
+sbi8r.top,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='sbi8r.top', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1243e57f0>: Failed to resolve 'sbi8r.top' ([Errno -5] No address associated with hostname)""))"
+urbaninstallationsbirminghamltd.co.uk,sbi,ANALYZED,0.571,True,0.8,0.289,0.916,MEDIUM: Very long domain name; HIGH: Mobile app impersonation,Window Fitters | Sutton Coldfield | Urban Installations Ltd,False,card; axis; secure; block; register; deactivate; payment; verification,Full Word Match,2025-10-11,
+tsbikeshop.com,sbi,ANALYZED,0.044,False,0.0,0.427,0.953,,Parked Domain name on Hostinger DNS system,False,card; account; secure; block,Full Word Match,2025-10-11,
+newsbitsy.us,sbi,ANALYZED,0.1,False,0.0,0.3,0.91,,newsbitsy.us,True,block; register,Full Word Match,2025-10-11,
+ascambeltsbirmingham.co.uk,sbi,ANALYZED,0.096,False,0.0,0.341,0.941,,Cambelt,True,password; account; register; block,Full Word Match,2025-10-11,
+jasbirandbrothers.com,sbi,ANALYZED,0.1,False,0.0,0.095,0.909,,Jasbir and Brothers,False,transfer,Full Word Match,2025-10-11,
+gecisbildirihts.icu,sbi,ANALYZED,0.1,False,0.0,0.321,0.898,,Bu Ä°nternet Adresi EriÅime KapatÄ±lmÄ±ÅtÄ±r,False,block,Full Word Match,2025-10-11,
+merkeztsbilgin.sbs,sbi,ANALYZED,0.1,False,0.0,0.321,0.898,,Bu Ä°nternet Adresi EriÅime KapatÄ±lmÄ±ÅtÄ±r,False,block,Full Word Match,2025-10-11,
+arnoldusbintuni.sch.id,sbi,ANALYZED,0.091,False,0.0,0.248,0.918,,Home - SMAS ARNOLDUS YANSEN,False,password; block,Full Word Match,2025-10-11,
+vassbike.xyz,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='vassbike.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12436b920>: Failed to resolve 'vassbike.xyz' ([Errno -5] No address associated with hostname)""))"
+opusbidx.xyz,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='opusbidx.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12436a2a0>: Failed to resolve 'opusbidx.xyz' ([Errno -5] No address associated with hostname)""))"
+mikesbiz.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.901,,,False,,Full Word Match,2025-10-11,
+bricsbitcoinfund.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='bricsbitcoinfund.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da124542090>, 'Connection to bricsbitcoinfund.com timed out. (connect timeout=10)'))"
+adsbiskuat02.click,sbi,ANALYZED,0.1,False,0.3,0.236,0.956,MEDIUM: Suspicious TLD,Site is created successfully!,False,secure,Full Word Match,2025-10-11,
+nextgenleadersbiz.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.889,,,False,,Full Word Match,2025-10-11,
+raspadinhadosbigode.shop,sbi,ANALYZED,0.075,False,0.0,0.376,0.943,,RASPADINHA DOS BIGODE 🥸,True,card; block; login; deposit; register; withdraw; balance,Full Word Match,2025-10-11,
+lkp-usbike.shop,sbi,ANALYZED,0.1,False,0.0,0.389,0.974,,This store is unavailable,False,block,Full Word Match,2025-10-11,
+adsbiskuat07.click,sbi,ANALYZED,0.1,False,0.3,0.236,0.956,MEDIUM: Suspicious TLD,Site is created successfully!,False,secure,Full Word Match,2025-10-11,
+dcsbids.info,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='dcsbids.info', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+secihti-altusbio.com.mx,sbi,ANALYZED,0.1,False,0.0,0.045,0.932,,Altus is a Biologicals Platform for molecule Discovery.,False,,Full Word Match,2025-10-11,
+jsbinternational.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.903,,,False,,Full Word Match,2025-10-11,
+1biosbiotech.info,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='1biosbiotech.info', port=443): Read timed out. (read timeout=10)"
+bridgesbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+sharkbowlsbites.com,sbi,ANALYZED,0.1,False,0.0,0.3,0.918,,sharkbowlsbites.com,True,block; register,Full Word Match,2025-10-11,
+rozszerzycbisbiglia.xyz,sbi,ANALYZED,0.271,False,0.3,0.043,0.91,MEDIUM: Suspicious TLD,Kitty Mail - The cutest email service,False,account; register; secure; login,Full Word Match,2025-10-11,
+yonosbionline.cc,sbi,ANALYZED,0.991,True,0.6,0.197,0.919,HIGH: Yono service impersonation; CRITICAL: YONO SBI service impersonation (yonosbi),घर - yono sbi online,True,alert; secure; block; yono; sbi,Full Word Match,2025-10-11,
+smallcatsbig.world,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='smallcatsbig.world', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1243e71d0>, 'Connection to smallcatsbig.world timed out. (connect timeout=10)'))"
+halikarnasbilimciftligi.online,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='halikarnasbilimciftligi.online', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1243e7140>, 'Connection to halikarnasbilimciftligi.online timed out. (connect timeout=10)'))"
+sbi-yono-login-mobile-banking.ws,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='sbi-yono-login-mobile-banking.ws', port=443): Read timed out. (read timeout=10)"
+xn----7sbitboqdcj2a6bgw.xn--p1ai,sbi,ANALYZED,0.171,False,0.8,0.218,0.916,MEDIUM: Very long domain name; HIGH: Potential homograph attack,Международная научно-практическая конференция 'Наследие Чингисхана',False,card; block,Full Word Match,2025-10-11,
+thelesbianporntube.com,sbi,ANALYZED,0.1,False,0.0,0.108,0.895,,One Moment Please: Checking Your Connection...,False,,Full Word Match,2025-10-11,
+melepasbirahi.store,sbi,ANALYZED,0.087,False,0.0,0.355,0.941,,Melepas Birahi - Viral Video Abg Indo 2025 Terbaru Top Trending Global,True,block; official; login; password; account; register; alert,Full Word Match,2025-10-11,
+sbidda.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='sbidda.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1244f4b00>: Failed to resolve 'sbidda.com' ([Errno -5] No address associated with hostname)""))"
+sbi-yono-login.ws,sbi,ANALYZED,0.1,False,0.6,0.09,0.911,HIGH: Yono service impersonation,à¤à¤¸à¤¬à¥à¤à¤ à¤¯à¥à¤¨à¥ à¤²à¥à¤à¤¿à¤¨,False,,Full Word Match,2025-10-11,
+sbi-yono-app.ws,sbi,ANALYZED,0.291,False,1.0,0.135,0.903,HIGH: Yono service impersonation; HIGH: Mobile app impersonation,à¤à¤¸à¤¬à¥à¤à¤ à¤¯à¥à¤¨à¥ à¤à¤ª,False,,Full Word Match,2025-10-11,
+lundinsbil.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='lundinsbil.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124483170>: Failed to resolve 'lundinsbil.com' ([Errno -5] No address associated with hostname)""))"
+chessbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+xn----8sbiffna9byaejd.xn--p1ai,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='xn----8sbiffna9byaejd.xn--p1ai', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da1242e76b0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+cbtfboxmsbihyqjpx.shop,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='cbtfboxmsbihyqjpx.shop', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1242e65d0>: Failed to resolve 'cbtfboxmsbihyqjpx.shop' ([Errno -5] No address associated with hostname)""))"
+angelholmsbiltvatt.com,sbi,ANALYZED,0.091,False,0.0,0.271,0.921,,Hem | Ängelholms Biltvätt,False,card; axis; block; deposit; account; register; deactivate; bob; payment; verification,Full Word Match,2025-10-11,
+yogasbirdiebanda.fun,sbi,ANALYZED,0.1,False,0.0,0.522,0.937,,Flexosamine - Alívio natural para dores nas articulações,True,card; block,Full Word Match,2025-10-11,
+bravesbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+chariotsbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+pakdeliciousbite.co.uk,sbi,ANALYZED,0.114,False,0.0,0.311,0.907,,Pak Delicious Bite - Best Cafe in Broxburn,False,account,Full Word Match,2025-10-11,
+nextgenleadersbizsolutions.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.889,,,False,,Full Word Match,2025-10-11,
+brandsbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+www.xn----8sbij5abdlbh4k.xn--p1ai,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='www.xn----8sbij5abdlbh4k.xn--p1ai', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da1242e7530>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+shortstoriesbigadventures.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='shortstoriesbigadventures.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da1242e46e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+yono-sbi-app.ws,sbi,ANALYZED,0.291,False,1.0,0.09,0.922,HIGH: Yono service impersonation; HIGH: Mobile app impersonation,à¤¯à¥à¤¨à¥ à¤à¤¸à¤¬à¥à¤à¤ à¤à¤ª,False,,Full Word Match,2025-10-11,
+xn----8sbif0cgkk.xn--p1ai,sbi,ANALYZED,0.1,False,0.6,0.179,0.921,HIGH: Potential homograph attack,Противопожарные и противодымные шторы - Топгард,True,password; block,Full Word Match,2025-10-11,
+flyersbikeclub.com,sbi,ANALYZED,0.09,False,0.0,0.0,0.969,,,False,,Full Word Match,2025-10-11,
+cosbite.com,sbi,ANALYZED,0.1,False,0.0,0.047,0.91,,Site not found &middot; DreamHost,False,,Full Word Match,2025-10-11,
+hczhgsbildiri.sbs,sbi,ANALYZED,0.091,False,0.0,0.208,0.91,,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+trickortreatandwinsbigtonight.lat,sbi,ANALYZED,0.1,False,0.2,0.137,0.853,MEDIUM: Very long domain name,Just a moment...,False,,Full Word Match,2025-10-11,
+buffetsbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+onlinesbiyonologin.cc,sbi,ANALYZED,0.991,True,0.6,0.191,0.892,HIGH: Yono service impersonation; CRITICAL: YONO SBI service impersonation (sbiyono),onlinesbi yono login,True,alert; block; yono; login,Full Word Match,2025-10-11,
+yonosbi.link,sbi,ANALYZED,0.991,True,1.0,0.209,0.893,HIGH: Brand name in subdomain; HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); CRITICAL: YONO SBI service impersonation (yonosbi); HIGH: Brand impersonation in title and content,Home - Smart Banking with SBI&#039;s All-in-One App,True,card; banking; alert; secure; block; yono; account; sbi,Full Word Match,2025-10-11,
+clonesbio.com,sbi,ANALYZED,0.091,False,0.0,0.152,0.914,,For Sale Domain: clonesbio.com,True,account; payment,Full Word Match,2025-10-11,
+mensbillboard.com,sbi,ANALYZED,0.1,False,0.0,0.164,0.928,,Just a moment...,False,,Full Word Match,2025-10-11,
+shobhajewellersbijnor.com,sbi,ANALYZED,0.108,False,0.0,0.322,0.948,,"Shobha Jewellers – Trusted Gold & Diamond Jewellery in Bijnor, Uttar Pradesh",True,card; block; login; account; signin; alert,Full Word Match,2025-10-11,
+meticulousbiz.com,sbi,ANALYZED,0.1,False,0.0,0.3,0.905,,403 - Forbidden,False,block,Full Word Match,2025-10-11,
+cerealesbiodulyonnais.fr,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='cerealesbiodulyonnais.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+webavhrmsbilgi.sbs,sbi,ANALYZED,0.1,False,0.0,0.321,0.898,,Bu Ä°nternet Adresi EriÅime KapatÄ±lmÄ±ÅtÄ±r,False,block,Full Word Match,2025-10-11,
+lesbianplayroom.com,sbi,ANALYZED,0.09,False,0.0,0.115,0.965,,大江买球-大江中国,False,block,Full Word Match,2025-10-11,
+seven8sevenboardsbites.com,sbi,ANALYZED,0.1,False,0.0,0.0,0.91,,403 Forbidden,False,,Full Word Match,2025-10-11,
+ussbin.com,sbi,ANALYZED,0.091,False,0.0,0.207,0.91,,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+crazsucksbigfatdonkeydick.com,sbi,ANALYZED,0.1,False,0.0,0.008,0.974,,Index of /,False,,Full Word Match,2025-10-11,
+sbiyonologin.link,sbi,ANALYZED,0.991,True,1.0,0.194,0.921,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); CRITICAL: YONO SBI service impersonation (sbiyono); HIGH: Brand impersonation in title and content,SBI Yono Login – Access Your Online Banking Account Securely,True,card; banking; alert; block; yono; online banking; login; transfer; account; sbi,Full Word Match,2025-10-11,
+caresbill.com,sbi,ANALYZED,0.1,False,0.0,0.263,0.922,,Cares Bill,True,block; immediate,Full Word Match,2025-10-11,
+cpasbien.news,sbi,ANALYZED,0.091,False,0.0,0.0,0.884,,,False,,Full Word Match,2025-10-11,
+candlepinsbismu7593.cfd,sbi,ANALYZED,0.09,False,0.0,0.0,0.974,,,False,,Full Word Match,2025-10-11,
+personasbisa.info,sbi,ANALYZED,0.1,False,0.0,0.435,0.922,,Solicitud de Crédito de Consumo - Banco BISA,True,alert; password; block; verify,Full Word Match,2025-10-11,
+adsbiskuat03.click,sbi,ANALYZED,0.1,False,0.3,0.236,0.956,MEDIUM: Suspicious TLD,Site is created successfully!,False,secure,Full Word Match,2025-10-11,
+xn----9sbi0afnccbbpf.online,sbi,ANALYZED,0.451,False,0.6,0.093,0.95,HIGH: Potential homograph attack,Сайт по умолчанию,True,expire; block,Full Word Match,2025-10-11,
+plexusbiopharma.co.in,sbi,ANALYZED,0.1,False,0.0,0.314,0.922,,Plexus Biopharmaceuticals Pvt. Ltd.,False,block; register,Full Word Match,2025-10-11,
+meriksbiken.top,sbi,ANALYZED,0.1,False,0.3,0.239,0.908,MEDIUM: Suspicious TLD,Apache2 Ubuntu Default Page: It works,False,,Full Word Match,2025-10-11,
+yonosbiregistration.cc,sbi,ANALYZED,0.1,False,0.6,0.09,0.936,HIGH: Yono service impersonation,à¤¯à¥à¤¨à¥ à¤à¤¸à¤¬à¥à¤à¤ à¤ªà¤à¤à¥à¤à¤°à¤£,False,,Full Word Match,2025-10-11,
+cenexisbio.com,sbi,ANALYZED,0.091,False,0.0,0.072,0.893,,,False,,Full Word Match,2025-10-11,
+queensbingo.se,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='queensbingo.se', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da124108860>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+yonosbiapp.link,sbi,ANALYZED,0.991,True,1.0,0.148,0.913,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); HIGH: Mobile app impersonation; CRITICAL: YONO SBI service impersonation (yonosbi),Unlocking Financial Potential: A Comprehensive Guide to the YONO SBI App,False,card; sbi; account; yono,Full Word Match,2025-10-11,
+sbirlosers.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='sbirlosers.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1241dd610>, 'Connection to sbirlosers.com timed out. (connect timeout=10)'))"
+chargersbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+asbienergy.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='asbienergy.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da12441dc40>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
+texasbilltracker.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='texasbilltracker.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da12441f950>, 'Connection to texasbilltracker.com timed out. (connect timeout=10)'))"
+cantinhodosbichos.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.901,,,False,,Full Word Match,2025-10-11,
+rayalesbianseeking.ru,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='rayalesbianseeking.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1241dfa70>, 'Connection to rayalesbianseeking.ru timed out. (connect timeout=10)'))"
+lowerawsbill.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+accessbiblestudies.com,sbi,ANALYZED,0.091,False,0.0,0.207,0.91,,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+yono-sbi-business.ws,yonobusiness.sbi,ANALYZED,0.091,False,0.0,0.03,0.905,,à¤¯à¥à¤¨à¥ à¤à¤¸à¤¬à¥à¤à¤ à¤¬à¤¿à¤à¤¨à¥à¤¸,False,,Similarity Jaccard,2025-10-11,
+sbi-yono-business.ws,yonobusiness.sbi,ANALYZED,0.091,False,0.0,0.075,0.892,,à¤à¤¸à¤¬à¥à¤à¤ à¤¯à¥à¤¨à¥ à¤¬à¤¿à¤à¤¨à¥à¤¸,False,,Similarity Jaccard,2025-10-11,
+supporthdfcbank.com,hdfc,ANALYZED,0.09,False,0.0,0.094,0.952,,,False,,Full Word Match,2025-10-11,
+ahdfcct.com,hdfc,ANALYZED,0.091,False,0.0,0.185,0.908,,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+hdfcergopolicyinsurancerenewalshere.in,hdfcergo,ANALYZED,0.211,False,0.2,0.234,0.862,MEDIUM: Very long domain name,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+supporthdfcbank.com,hdfcbank,ANALYZED,0.091,False,0.0,0.007,0.911,,,False,,Full Word Match,2025-10-11,
+hdhc.ru,hdfc,ANALYZED,0.091,False,0.0,0.17,0.922,,Техногид — портал в мир техники,True,card; block,Similarity Damerau-Levenshtein,2025-10-11,
+hnfc.site,hdfc,ANALYZED,0.091,False,0.0,0.188,0.925,,FREE SCHLEP ROBLOX RAID 🚨🚨🚨 - YouTube,False,update now; official; account; signin; expire,Similarity Damerau-Levenshtein,2025-10-11,
+hdfcyberwiz.com,hdfc,ANALYZED,0.091,False,0.0,0.162,0.903,,JBO Artbytar - หน้าแรก Jbo.com อัปเดตล่าสุด ลิงค์ลงทะเบียน,True,alert; secure; block,Full Word Match,2025-10-11,
+hdfu.org,hdfc,ERROR,0.5,,,,,,,,,Similarity Damerau-Levenshtein,2025-10-11,"HTTPSConnectionPool(host='hdfu.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da124396240>, 'Connection to hdfu.org timed out. (connect timeout=10)'))"
+hdfcergopolicyinsurancerenewalshere.in,hdfc,ANALYZED,0.211,False,0.2,0.183,0.908,MEDIUM: Very long domain name,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+career.you,icicicareers,ERROR,0.5,,,,,,,,,Similarity Jaccard,2025-10-11,"HTTPSConnectionPool(host='career.you', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da124395970>, 'Connection to career.you timed out. (connect timeout=10)'))"
+aicareer.work,icicicareers,ERROR,0.5,,,,,,,,,Similarity Jaccard,2025-10-11,"HTTPSConnectionPool(host='aicareer.work', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1244f58b0>, 'Connection to aicareer.work timed out. (connect timeout=10)'))"
+emailto.you,email.gov,ANALYZED,0.1,False,0.0,0.009,0.897,,403 - Forbidden,False,block,Similarity Jaro-Winkler,2025-10-11,
+emailvx.click,email.gov,ANALYZED,0.1,False,0.3,0.0,0.903,MEDIUM: Suspicious TLD,emailvx.click,False,,Similarity Jaro-Winkler,2025-10-11,
+email.limo,email.gov,ANALYZED,0.451,False,0.6,0.054,0.911,HIGH: Brand name in subdomain,Buy email.limo Domain on GoDaddy for 0 | ExpiredDomains.com,True,card; block; login; register; alert,Similarity Jaro-Winkler,2025-10-11,
+pnet.work,netpnb,ERROR,0.5,,,,,,,,,Similarity Jaccard,2025-10-11,"HTTPSConnectionPool(host='pnet.work', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12453c8f0>: Failed to resolve 'pnet.work' ([Errno -5] No address associated with hostname)""))"
+yonosbibusiness.link,yonobusiness.sbi,ANALYZED,0.871,True,0.0,0.131,0.905,CRITICAL: YONO SBI service impersonation (yonosbi),Unlock the Power of Yono SBI Business â Simplified Banking for Entrepreneurs,False,card; banking; yono; account; sbi,Similarity Jaccard,2025-10-11,
+sbiyonobusinesslogin.link,yonobusiness.sbi,ANALYZED,0.871,True,0.0,0.091,0.901,CRITICAL: YONO SBI service impersonation (sbiyono),SBI YONO Business Login â Secure Access to Your Online Banking Dashboard,False,card; indian; secure; yono; online banking; login; account; sbi,Similarity Jaccard,2025-10-11,
+sbiyonobusiness.link,yonobusiness.sbi,ANALYZED,0.991,True,0.6,0.15,0.909,HIGH: Brand name in subdomain; CRITICAL: YONO SBI service impersonation (sbiyono),SBI YONO Business – Smart &amp; Secure Online Banking for Your Business,True,banking; alert; secure; block; yono; online banking; login; register; bank; sbi,Similarity Jaccard,2025-10-11,
+yono-business.ws,yonobusiness.sbi,ANALYZED,0.091,False,0.0,0.105,0.9,,à¤¯à¥à¤¨à¥ à¤¬à¤¿à¤à¤¼à¤¨à¥à¤¸,False,,Similarity Jaro-Winkler,2025-10-11,
+yonobusiness.link,yonobusiness.sbi,ANALYZED,0.991,True,1.0,0.108,0.9,HIGH: Brand name in subdomain; HIGH: Exact brand name with different TLD; CRITICAL: YONO SBI service impersonation (yonobusiness),Yono Business â Smart Solutions for Seamless Business Banking,False,account; banking; yono,Similarity Jaccard,2025-10-11,
+yonobusiness.cc,yonobusiness.sbi,ANALYZED,0.291,False,1.0,0.075,0.906,HIGH: Brand name in subdomain; HIGH: Exact brand name with different TLD,à¤¯à¥à¤¨à¥ à¤¬à¤¿à¤à¤¨à¥à¤¸,False,,Similarity Jaccard,2025-10-11,
+dcflife.xyz,hdfclife,ERROR,0.5,,,,,,,,,Similarity Jaro-Winkler,2025-10-11,"HTTPSConnectionPool(host='dcflife.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1243e41d0>: Failed to resolve 'dcflife.xyz' ([Errno -5] No address associated with hostname)""))"
+bankofbakuaz.com,bankofbaroda,ANALYZED,0.091,False,0.0,0.0,0.908,,Error,False,,Similarity Jaro-Winkler,2025-10-11,
+bribanking.com,bobibanking,ANALYZED,0.091,False,0.0,0.0,0.901,,,False,,Similarity Damerau-Levenshtein,2025-10-11,
+ibanking.ru,bobibanking,ERROR,0.5,,,,,,,,,Similarity Jaccard,2025-10-11,"HTTPSConnectionPool(host='ibanking.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12433c770>: Failed to resolve 'ibanking.ru' ([Errno -2] Name or service not known)""))"
+xn--air-dma.store,airtel,ANALYZED,0.451,False,0.6,0.151,0.902,HIGH: Potential homograph attack,Home,False,,IDN Similarity Jaro-Winkler,2025-10-11,
+airtelrewards.info,airtel,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='airtelrewards.info', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+airttel.xyz,airtel,ERROR,0.5,,,,,,,,,Similarity Jaccard,2025-10-11,"HTTPSConnectionPool(host='airttel.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12433f620>: Failed to resolve 'airttel.xyz' ([Errno -5] No address associated with hostname)""))"
+airtravel.homes,airtel,ANALYZED,0.091,False,0.0,0.0,0.894,,,False,,Similarity Jaro-Winkler,2025-10-11,
+aratel.site,airtel,ERROR,0.5,,,,,,,,,Similarity Jaro-Winkler,2025-10-11,"HTTPSConnectionPool(host='aratel.site', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12429d610>: Failed to resolve 'aratel.site' ([Errno -5] No address associated with hostname)""))"
+airtelharyana.com,airtel,ANALYZED,0.091,False,0.0,0.192,0.949,,Best Airtel Postpaid Plans in Haryana - Family &amp; Individual,False,card; otp; block; account; airtel,Full Word Match,2025-10-11,
+aireel.digital,airtel,ERROR,0.5,,,,,,,,,Similarity Damerau-Levenshtein,2025-10-11,"HTTPSConnectionPool(host='aireel.digital', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da12429c230>, 'Connection to aireel.digital timed out. (connect timeout=10)'))"
+e-billairtel.com,airtel,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='e-billairtel.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12433f260>: Failed to resolve 'e-billairtel.com' ([Errno -5] No address associated with hostname)""))"
+airtelfnc.in,airtel,ANALYZED,0.1,False,0.0,0.343,0.915,,Airtel Fibernet New Connection,False,airtel; block; register,Full Word Match,2025-10-11,
+airtelrewards.org,airtel,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='airtelrewards.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+artel.video,airtel,ANALYZED,0.091,False,0.0,0.0,0.888,,,False,,Similarity Damerau-Levenshtein,2025-10-11,
+aiirtel.xyz,airtel,ERROR,0.5,,,,,,,,,Similarity Jaccard,2025-10-11,"HTTPSConnectionPool(host='aiirtel.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12433c620>: Failed to resolve 'aiirtel.xyz' ([Errno -5] No address associated with hostname)""))"
+airtelrewards.com,airtel,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='airtelrewards.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+airtelrcsconnect.com,airtel,ANALYZED,0.09,False,0.0,0.021,0.955,,,False,,Full Word Match,2025-10-11,
+airtelrewards.store,airtel,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='airtelrewards.store', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+icici-bank.international,icicibank,ANALYZED,0.091,False,0.0,0.004,0.925,,,False,,Similarity Jaccard,2025-10-11,
+careerseo.com,icicicareers,ERROR,0.5,,,,,,,,,Similarity Jaccard,2025-10-11,"HTTPSConnectionPool(host='careerseo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da12433f8f0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
+zpcareers.com,icicicareers,ERROR,0.5,,,,,,,,,Similarity Jaccard,2025-10-11,"HTTPSConnectionPool(host='zpcareers.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da12433c320>, 'Connection to zpcareers.com timed out. (connect timeout=10)'))"
+ardcareers.com,icicicareers,ERROR,0.5,,,,,,,,,Similarity Jaccard,2025-10-11,"HTTPSConnectionPool(host='ardcareers.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12433e660>: Failed to resolve 'ardcareers.com' ([Errno -5] No address associated with hostname)""))"
+careers.media,icicicareers,ANALYZED,0.091,False,0.0,0.044,0.93,,,False,,Similarity Jaccard,2025-10-11,
+onlinebij.store,onlinesbi.sbi,ERROR,0.5,,,,,,,,,Similarity Jaro-Winkler,2025-10-11,"HTTPSConnectionPool(host='onlinebij.store', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12433ef00>: Failed to resolve 'onlinebij.store' ([Errno -2] Name or service not known)""))"
+onlinebij.com,onlinesbi.sbi,ANALYZED,0.091,False,0.0,0.092,0.903,,OnlineBij - Snel online,True,,Similarity Jaro-Winkler,2025-10-11,
+stratosbiotechanalytics.com,sbi,ANALYZED,0.1,False,0.0,0.3,0.905,,403 - Forbidden,False,block,Full Word Match,2025-10-11,
+morgansbirthday.party,sbi,ANALYZED,0.1,False,0.0,0.0,0.897,,treasurehunt,False,,Full Word Match,2025-10-11,
+buffetsbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+sbivjh.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='sbivjh.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1243e6600>: Failed to resolve 'sbivjh.com' ([Errno -5] No address associated with hostname)""))"
+treesbizservices.com,sbi,ANALYZED,0.1,False,0.0,0.005,0.973,,Index of /,False,,Full Word Match,2025-10-11,
+topchefsbiography.com,sbi,ANALYZED,0.09,False,0.0,0.273,0.951,,Top Chefs Biography &#8211; The Global Guild of Culinary Legends,True,statement; block; indian; login,Full Word Match,2025-10-11,
+lexworksbiz.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.883,,,False,,Full Word Match,2025-10-11,
+littlemilesbigmoments.store,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='littlemilesbigmoments.store', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+joebrisbinedesign.com,sbi,ANALYZED,0.091,False,0.0,0.255,0.943,,joe brisbine design,True,urgent; account; indian; block,Full Word Match,2025-10-11,
+jrsbi.app,sbi,ANALYZED,0.691,True,1.0,0.065,0.942,HIGH: Brand name in subdomain; HIGH: Mobile app impersonation,,False,,Full Word Match,2025-10-11,
+lesbianchat.life,sbi,ANALYZED,0.1,False,0.0,0.276,0.908,,Maintenance message,False,,Full Word Match,2025-10-11,
+sbihx.top,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='sbihx.top', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124321700>: Failed to resolve 'sbihx.top' ([Errno -5] No address associated with hostname)""))"
+yono-sbi-business.ws,sbi,ANALYZED,0.1,False,0.6,0.045,0.914,HIGH: Yono service impersonation,à¤¯à¥à¤¨à¥ à¤à¤¸à¤¬à¥à¤à¤ à¤¬à¤¿à¤à¤¨à¥à¤¸,False,,Full Word Match,2025-10-11,
+reachesbiathlon9630.sbs,sbi,ANALYZED,0.09,False,0.0,0.0,0.974,,,False,,Full Word Match,2025-10-11,
+mensbible.app,sbi,ANALYZED,0.45,False,0.6,0.0,0.97,HIGH: Mobile app impersonation,,False,,Full Word Match,2025-10-11,
+adsbiskuat05.click,sbi,ANALYZED,0.1,False,0.3,0.236,0.956,MEDIUM: Suspicious TLD,Site is created successfully!,False,secure,Full Word Match,2025-10-11,
+0sbiuz3p.com,sbi,ANALYZED,0.1,False,0.0,0.085,0.928,,Attention Required! | Cloudflare,False,alert; block,Full Word Match,2025-10-11,
+yonosbiregistration.link,sbi,ANALYZED,0.991,True,1.0,0.161,0.894,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); CRITICAL: YONO SBI service impersonation (yonosbi); HIGH: Brand impersonation in title and content,How to Complete Your YONO SBI Registration Successfully,False,sbi; account; yono,Full Word Match,2025-10-11,
+aramisbike.fr,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+webgsisbilgi.sbs,sbi,ANALYZED,0.1,False,0.0,0.321,0.898,,Bu Ä°nternet Adresi EriÅime KapatÄ±lmÄ±ÅtÄ±r,False,block,Full Word Match,2025-10-11,
+jamesbirch.net,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='jamesbirch.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+cupidlesbianattract.ru,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='cupidlesbianattract.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1243cef30>, 'Connection to cupidlesbianattract.ru timed out. (connect timeout=10)'))"
+sbi-yono-business.ws,sbi,ANALYZED,0.1,False,0.6,0.09,0.923,HIGH: Yono service impersonation,à¤à¤¸à¤¬à¥à¤à¤ à¤¯à¥à¤¨à¥ à¤¬à¤¿à¤à¤¨à¥à¤¸,False,,Full Word Match,2025-10-11,
+logicsbill.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='logicsbill.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da124467290>, 'Connection to logicsbill.com timed out. (connect timeout=10)'))"
+itsbiohacking.com,sbi,ANALYZED,0.1,False,0.0,0.357,0.919,,Home - Bio Hacking,True,block; verify,Full Word Match,2025-10-11,
+wordofjesusbibleschool.com,sbi,ANALYZED,0.1,False,0.0,0.106,0.898,,Coming Soon,False,,Full Word Match,2025-10-11,
+visbiomee.com,sbi,ANALYZED,0.1,False,0.0,0.389,0.974,,This store is unavailable,False,block,Full Word Match,2025-10-11,
+walksbit.com,sbi,ANALYZED,0.091,False,0.0,0.207,0.91,,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+tinyscarsbiglessonsloqrw.com,sbi,ANALYZED,0.092,False,0.0,0.229,0.847,,"Tiny scars, big lessons",False,account; password; block,Full Word Match,2025-10-11,
+construacomasbi.com,sbi,ANALYZED,0.1,False,0.6,0.233,0.926,HIGH: Brand name in subdomain,SBI CONSTRUTORA &amp; INCORPORADORA - SBI CONSTRUTORA &amp; INCORPORADORA,True,sbi; block,Full Word Match,2025-10-11,
+whiskeysbiz.com,sbi,ANALYZED,0.091,False,0.0,0.269,0.893,,Home | Whiskey Business,True,card; block; login; statement; temporary; account; register; deactivate; alert; payment,Full Word Match,2025-10-11,
+onlinesbiyonologin.link,sbi,ANALYZED,0.991,True,1.0,0.087,0.908,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); CRITICAL: YONO SBI service impersonation (sbiyono); HIGH: Brand impersonation in title and content,OnlineSBI YONO Login â Secure Access to Your SBI Account,False,card; secure; yono; login; account; sbi,Full Word Match,2025-10-11,
+sbiyonoapp.cc,sbi,ANALYZED,0.991,True,1.0,0.196,0.91,HIGH: Yono service impersonation; HIGH: Mobile app impersonation; CRITICAL: YONO SBI service impersonation (sbiyono),घर - sbi yono app,True,alert; secure; block; yono; sbi,Full Word Match,2025-10-11,
+tastyteenlesbians.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='tastyteenlesbians.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1242d1d60>: Failed to resolve 'tastyteenlesbians.com' ([Errno -2] Name or service not known)""))"
+segersbiodling.se,sbi,ANALYZED,0.091,False,0.0,0.228,0.937,,Min butik,True,card; block; password; account; payment,Full Word Match,2025-10-11,
+skidsbio.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.881,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+vmsbi.com.br,sbi,ANALYZED,0.1,False,0.6,0.158,0.971,HIGH: Brand name in subdomain,UpdateBrowser,True,,Full Word Match,2025-10-11,
+chatsbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+fortusbiznes.uz,sbi,ANALYZED,0.091,False,0.0,0.136,0.909,,"FORTUS BIZNES XK - ÐÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½ÑÐ¹ Ð¸Ð¼Ð¿Ð¾ÑÑÐµÑ Samsung Galaxy, iPhone, Redmi Note Ð² Ð£Ð·Ð±ÐµÐºÐ¸ÑÑÐ°Ð½Ðµ",True,,Full Word Match,2025-10-11,
+kpvxtouqsbimavvzjb.shop,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='kpvxtouqsbimavvzjb.shop', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12429b920>: Failed to resolve 'kpvxtouqsbimavvzjb.shop' ([Errno -5] No address associated with hostname)""))"
+webhsgecisbilgi.sbs,sbi,ANALYZED,0.1,False,0.0,0.321,0.898,,Bu Ä°nternet Adresi EriÅime KapatÄ±lmÄ±ÅtÄ±r,False,block,Full Word Match,2025-10-11,
+darwinsbiglie.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='darwinsbiglie.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1242c4620>, 'Connection to darwinsbiglie.com timed out. (connect timeout=10)'))"
+mellysbikeshop.nl,sbi,ANALYZED,0.09,False,0.0,0,0.974,,,False,,Full Word Match,2025-10-11,
+chargersbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+writesbirs.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='writesbirs.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da12429d730>, 'Connection to writesbirs.com timed out. (connect timeout=10)'))"
+nextgensalesbiz.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.889,,,False,,Full Word Match,2025-10-11,
+seriesbiodelrot.autos,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='seriesbiodelrot.autos', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1242bd4c0>: Failed to resolve 'seriesbiodelrot.autos' ([Errno -5] No address associated with hostname)""))"
+tasbihfactory.com,sbi,ANALYZED,0.09,False,0.0,0.352,0.93,,tasbih factory &ndash; Opening Soon,True,block; login; password; account; alert,Full Word Match,2025-10-11,
+charlesbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+nasbit.online,sbi,ANALYZED,0.1,False,0.0,0.072,0.972,,Cloudflare Tunnel error | nasbit.online | Cloudflare,False,,Full Word Match,2025-10-11,
+tresbistrobar.se,sbi,ANALYZED,0.1,False,0.0,0.229,0.884,,"Tres Bar - Hammarby Sjöstad | Öl, Bar-mat &amp; Varm Atmosfär",False,,Full Word Match,2025-10-11,
+tsbian.top,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='tsbian.top', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1243cf7a0>: Failed to resolve 'tsbian.top' ([Errno -2] Name or service not known)""))"
+gyerekulesbizomanyi.com,sbi,ANALYZED,0.1,False,0.0,0.152,0.91,,gyerekulesbizomanyi.com - No Content - Unas,False,,Full Word Match,2025-10-11,
+trickortreatandwinsbigtonight.click,sbi,ANALYZED,0.1,False,0.5,0.169,0.853,MEDIUM: Suspicious TLD; MEDIUM: Very long domain name,Just a moment...,False,,Full Word Match,2025-10-11,
+avgecisbilgi.sbs,sbi,ANALYZED,0.091,False,0.0,0.208,0.91,,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+wsbio.biz,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='wsbio.biz', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da1242c4c50>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+sbi-yono-business-login.ws,sbi,ANALYZED,0.1,False,0.6,0.09,0.898,HIGH: Yono service impersonation,à¤à¤¸à¤¬à¥à¤à¤ à¤¯à¥à¤¨à¥ à¤¬à¤¿à¤à¤¨à¥à¤¸ à¤²à¥à¤à¤¿à¤¨,False,,Full Word Match,2025-10-11,
+stellarisbio.com,sbi,ANALYZED,0.1,False,0.0,0.3,0.92,,stellarisbio.com,True,block; register,Full Word Match,2025-10-11,
+vercorsbike.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+hairlossbiohacks.com,sbi,ANALYZED,0.09,False,0.0,0.0,0.969,,,False,,Full Word Match,2025-10-11,
+dovusbilgisi.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.901,,,False,,Full Word Match,2025-10-11,
+elevatedeventsbigbear.com,sbi,ANALYZED,0.1,False,0.0,0.08,0.92,,Private Site,False,,Full Word Match,2025-10-11,
+thisisyasminethelesbian.com,sbi,ANALYZED,0.09,False,0.0,0.0,0.974,,,False,,Full Word Match,2025-10-11,
+lodysseedesbijoux.fr,sbi,ANALYZED,0.1,False,0.0,0.0,0.91,,403 Forbidden,False,,Full Word Match,2025-10-11,
+yonosbibusiness.link,sbi,ANALYZED,0.991,True,1.0,0.113,0.893,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); CRITICAL: YONO SBI service impersonation (yonosbi),Unlock the Power of Yono SBI Business â Simplified Banking for Entrepreneurs,False,card; banking; yono; account; sbi,Full Word Match,2025-10-11,
+thisbitchmag.com,sbi,ANALYZED,0.1,False,0.0,0.3,0.919,,thisbitchmag.com,True,block; register,Full Word Match,2025-10-11,
+tinyscarsbiglessons.blog,sbi,ANALYZED,0.092,False,0.0,0.229,0.847,,"Tiny scars, big lessons",False,account; password; block,Full Word Match,2025-10-11,
+happyholidaysbitches.store,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='happyholidaysbitches.store', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1243cd250>, 'Connection to happyholidaysbitches.store timed out. (connect timeout=10)'))"
+yonosbilogin.cc,sbi,ANALYZED,0.1,False,0.6,0.135,0.911,HIGH: Yono service impersonation,à¤¯à¥à¤¨à¥ à¤à¤¸à¤¬à¥à¤à¤ à¤²à¥à¤à¤¿à¤¨,False,,Full Word Match,2025-10-11,
+teresasbilingualhomedaycare.com,sbi,ANALYZED,0.21,False,0.2,0.0,0.969,MEDIUM: Very long domain name,,False,,Full Word Match,2025-10-11,
+yonosbilogin.link,sbi,ANALYZED,0.991,True,1.0,0.098,0.921,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); CRITICAL: YONO SBI service impersonation (yonosbi); HIGH: Brand impersonation in title and content,Yono SBI Account: Step-by-Step Login Guide,False,card; yono; login; account; sbi,Full Word Match,2025-10-11,
+evercharmlesbian.ru,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='evercharmlesbian.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da124369580>, 'Connection to evercharmlesbian.ru timed out. (connect timeout=10)'))"
+khalilsbible.com,sbi,ANALYZED,0.091,False,0.0,0.251,0.917,,K H A L I L ?,True,card; payment; account; password,Full Word Match,2025-10-11,
+citynewsbihar.com,sbi,ANALYZED,0.1,False,0.0,0.281,0.906,,City News Bihar,False,alert; block,Full Word Match,2025-10-11,
+bravesbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+brothersbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+analyticssearchcapsbin.autos,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='analyticssearchcapsbin.autos', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1242bca70>: Failed to resolve 'analyticssearchcapsbin.autos' ([Errno -5] No address associated with hostname)""))"
+cheersbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+sbai.digital,sbi,ANALYZED,0.09,False,0.0,0.282,0.966,,Portfolio | My Site,True,card; axis; secure; block; login; register; deactivate; alert; bob; payment,Similarity Jaro-Winkler,2025-10-11,
+adsbiskuat06.click,sbi,ANALYZED,0.1,False,0.3,0.236,0.956,MEDIUM: Suspicious TLD,Site is created successfully!,False,secure,Full Word Match,2025-10-11,
+sbiyonobusinesslogin.link,sbi,ANALYZED,0.991,True,1.0,0.083,0.879,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); CRITICAL: YONO SBI service impersonation (sbiyono); HIGH: Brand impersonation in title and content,SBI YONO Business Login â Secure Access to Your Online Banking Dashboard,False,card; indian; secure; yono; online banking; login; account; sbi,Full Word Match,2025-10-11,
+xn----8sbij5abdlbh4k.xn--p1ai,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='xn----8sbij5abdlbh4k.xn--p1ai', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da124131190>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+rsbiology.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.901,,,False,,Full Word Match,2025-10-11,
+tishawnsbirthdaydinner.com,sbi,ANALYZED,0.1,False,0.0,0.3,0.919,,tishawnsbirthdaydinner.com,True,block; register,Full Word Match,2025-10-11,
+sbirstrat.com,sbi,ANALYZED,0.1,False,0.0,0.0,0.941,,ConStrat - SBIR Consulting Platform,False,,Full Word Match,2025-10-11,
+mofinnloansbiz.info,sbi,ANALYZED,0.1,False,0.0,0.189,0.952,,MoFin &#x2d; Hard Money Loans for Investment Properties,True,password; block,Full Word Match,2025-10-11,
+areiusbi.space,sbi,ANALYZED,0.451,False,0.6,0,0.91,HIGH: Brand name in subdomain,,False,,Full Word Match,2025-10-11,
+kidsbitz.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.901,,,False,,Full Word Match,2025-10-11,
+ummsbirthday.name.ng,sbi,ANALYZED,0.1,False,0.0,0.135,0.919,,Happy 30th Birthday Mi Amor ❤️,False,,Full Word Match,2025-10-11,
+asbiao.xyz,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='asbiao.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124467470>: Failed to resolve 'asbiao.xyz' ([Errno -5] No address associated with hostname)""))"
+yono-sbi.ws,sbi,ANALYZED,0.291,False,1.0,0.09,0.916,HIGH: Brand name in subdomain; HIGH: Yono service impersonation,à¤¯à¥à¤¨à¥ à¤à¤¸à¤¬à¥à¤à¤,False,,Full Word Match,2025-10-11,
+scamsbite.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.899,,,False,,Full Word Match,2025-10-11,
+brassbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+invoicesbills.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='invoicesbills.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da124536f00>, 'Connection to invoicesbills.com timed out. (connect timeout=10)'))"
+pelagosbilisim.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='pelagosbilisim.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da12429bfb0>, 'Connection to pelagosbilisim.com timed out. (connect timeout=10)'))"
+boxesbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+lvqsbier.click,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='lvqsbier.click', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12436b5f0>: Failed to resolve 'lvqsbier.click' ([Errno -5] No address associated with hostname)""))"
+bassbig.shop,sbi,ANALYZED,0.1,False,0.0,0.085,0.928,,Attention Required! | Cloudflare,False,alert; block,Full Word Match,2025-10-11,
+1biosbioinsights.info,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='1biosbioinsights.info', port=443): Read timed out. (read timeout=10)"
+childhersbite.digital,sbi,ANALYZED,0.091,False,0.0,0.0,0.906,,,False,,Full Word Match,2025-10-11,
+onemasbiker.com,sbi,ANALYZED,0.1,False,0.0,0.192,0.964,,One mas Biker,False,block,Full Word Match,2025-10-11,
+channelsbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+adsbiskuat08.click,sbi,ANALYZED,0.1,False,0.3,0.236,0.956,MEDIUM: Suspicious TLD,Site is created successfully!,False,secure,Full Word Match,2025-10-11,
+itsbilalnadeem.com,sbi,ANALYZED,0.091,False,0.0,0.229,0.899,,Home - itsbilalnadeem.com,False,password; account; block; login,Full Word Match,2025-10-11,
+lesbianintertalk.ru,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='lesbianintertalk.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1244f6e70>, 'Connection to lesbianintertalk.ru timed out. (connect timeout=10)'))"
+lesbiandemon.com,sbi,ANALYZED,0.1,False,0.0,0.108,0.91,,Hostinger Horizons,False,,Full Word Match,2025-10-11,
+lesbians.today,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='lesbians.today', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da124321c40>, 'Connection to lesbians.today timed out. (connect timeout=10)'))"
+smallbitesbigchanges.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='smallbitesbigchanges.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124130230>: Failed to resolve 'smallbitesbigchanges.com' ([Errno -2] Name or service not known)""))"
+flopsbinkybun.uk,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='flopsbinkybun.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1244f5850>: Failed to resolve 'flopsbinkybun.uk' ([Errno -5] No address associated with hostname)""))"
+charmsbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+newfoundationsbiblicalfellowship.com,sbi,ANALYZED,0.211,False,0.2,0.157,0.899,MEDIUM: Very long domain name,New Foundations Biblical Fellowship,False,ministry; account; indian; block,Full Word Match,2025-10-11,
+itsbindi.xyz,sbi,ANALYZED,0.224,False,0.3,0.427,0.953,MEDIUM: Suspicious TLD,Parked Domain name on Hostinger DNS system,False,card; account; secure; block,Full Word Match,2025-10-11,
+adsbiskuat04.click,sbi,ANALYZED,0.1,False,0.3,0.236,0.956,MEDIUM: Suspicious TLD,Site is created successfully!,False,secure,Full Word Match,2025-10-11,
+sbiyonobusiness.link,sbi,ANALYZED,0.991,True,1.0,0.199,0.884,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); CRITICAL: YONO SBI service impersonation (sbiyono); HIGH: Brand impersonation in title and content,SBI YONO Business – Smart &amp; Secure Online Banking for Your Business,True,banking; alert; secure; block; yono; online banking; login; register; bank; sbi,Full Word Match,2025-10-11,
+nbpilatesbilecik.com,sbi,ANALYZED,0.09,False,0.0,0.045,0.955,,,False,,Full Word Match,2025-10-11,
+3riversbitcoin.org,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='3riversbitcoin.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1242bf260>, 'Connection to 3riversbitcoin.org timed out. (connect timeout=10)'))"
+cursosbitcoin.shop,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='cursosbitcoin.shop', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1242c7980>: Failed to resolve 'cursosbitcoin.shop' ([Errno -5] No address associated with hostname)""))"
+amsbinarytech.com,sbi,ANALYZED,0.1,False,0.0,0.177,0.912,,أيه إم إس للتقنيات الرقمية &#8211; متجر المنتجات الرقمية,False,block,Full Word Match,2025-10-11,
+doyensbiz.org,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='doyensbiz.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1242c73e0>, 'Connection to doyensbiz.org timed out. (connect timeout=10)'))"
+g6sbi.top,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='g6sbi.top', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1243224b0>: Failed to resolve 'g6sbi.top' ([Errno -5] No address associated with hostname)""))"
+sbirmill.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='sbirmill.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da12429c680>, 'Connection to sbirmill.com timed out. (connect timeout=10)'))"
+yono-sbi-registration.ws,sbi,ANALYZED,0.1,False,0.6,0.09,0.929,HIGH: Yono service impersonation,à¤¯à¥à¤¨à¥ à¤à¤¸à¤¬à¥à¤à¤ à¤ªà¤à¤à¥à¤à¤°à¤£,False,,Full Word Match,2025-10-11,
+venationesbismu4713.cfd,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='venationesbismu4713.cfd', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da1243e4d10>: Failed to resolve 'venationesbismu4713.cfd' ([Errno -5] No address associated with hostname)""))"
+lsbiyej.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='lsbiyej.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7da1243e6f60>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+sbiyonoapp.link,sbi,ANALYZED,0.991,True,1.0,0.106,0.907,HIGH: Yono service impersonation; HIGH: Brand impersonation in content (score: 0.70); HIGH: Mobile app impersonation; CRITICAL: YONO SBI service impersonation (sbiyono); HIGH: Brand impersonation in title and content,SBI YONO App â Your Ultimate Digital Banking Solution,False,card; indian; secure; yono; account; immediate; digital banking; sbi,Full Word Match,2025-10-11,
+borisbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+businessratesbirmingham.co.uk,sbi,ANALYZED,0.1,False,0.0,0.292,0.912,,Business Rates Birmingham                                                                          &#8211; Just another WordPress site,True,balance; block,Full Word Match,2025-10-11,
+brevisbit.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+csbite.xyz,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='csbite.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124466d80>: Failed to resolve 'csbite.xyz' ([Errno -5] No address associated with hostname)""))"
+kidsbiblestories.online,sbi,ANALYZED,0.09,False,0.0,0.0,0.969,,,False,,Full Word Match,2025-10-11,
+artefloresbiritiba.com.br,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='artefloresbiritiba.com.br', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da12436bda0>, 'Connection to artefloresbiritiba.com.br timed out. (connect timeout=10)'))"
+cheersbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+sbiyono.cc,sbi,ANALYZED,0.991,True,0.6,0.135,0.892,HIGH: Yono service impersonation; CRITICAL: YONO SBI service impersonation (sbiyono),à¤à¤¸à¤¬à¥à¤à¤ à¤¯à¥à¤¨à¥,False,,Full Word Match,2025-10-11,
+mesbiensavendre.fr,sbi,ANALYZED,0.091,False,0.0,0.198,0.91,,mesbiensavendre &#8211; My WordPress Blog,True,card; block; login; password; account; register,Full Word Match,2025-10-11,
+pointreyesbikerental.com,sbi,ANALYZED,0.1,False,0.0,0.106,0.898,,Coming Soon,False,,Full Word Match,2025-10-11,
+finassetsbiz.com,sbi,ANALYZED,0.091,False,0.0,0.074,0.899,,Low-Fee Crypto Payment Gateway and Processor for B2B,False,card; secure; account; register; bank; balance; payment; verification,Full Word Match,2025-10-11,
+trickortreatandwinsbigtonight.sbs,sbi,ANALYZED,0.1,False,0.2,0.168,0.853,MEDIUM: Very long domain name,Just a moment...,False,,Full Word Match,2025-10-11,
+plantisbiotech.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='plantisbiotech.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da1243e6090>, 'Connection to plantisbiotech.com timed out. (connect timeout=10)'))"
+agilymarmartinsbio.com,sbi,ANALYZED,0.1,False,0.0,0.0,0.974,,Not found,False,,Full Word Match,2025-10-11,
+dsbibs.info,sbi,ANALYZED,0.091,False,0.0,0.166,0.909,,Google,True,block; verify; signin; alert; bob,Full Word Match,2025-10-11,
+fisbitcode.com,sbi,ANALYZED,0.1,False,0.0,0.047,0.973,,403 Forbidden,False,,Full Word Match,2025-10-11,
+veritasbiosystems.com,sbi,ANALYZED,0.044,False,0.0,0.427,0.953,,Parked Domain name on Hostinger DNS system,False,card; account; secure; block,Full Word Match,2025-10-11,
+repertoirelesbiens.ca,sbi,ANALYZED,0.09,False,0.0,0.273,0.954,,Répertoire lesbien -,True,block; login,Full Word Match,2025-10-11,
+brothersbiz.xyz,sbi,ANALYZED,0.271,False,0.3,0.0,0.921,MEDIUM: Suspicious TLD,,False,,Full Word Match,2025-10-11,
+mssbig.shop,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='mssbig.shop', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12429acf0>: Failed to resolve 'mssbig.shop' ([Errno -5] No address associated with hostname)""))"
+yono-sbi-online.ws,sbi,ANALYZED,0.991,True,0.6,0.105,0.915,HIGH: Yono service impersonation; CRITICAL: YONO SBI service impersonation (yono-sbi),à¤¯à¥à¤¨à¥ à¤à¤¸à¤¬à¥à¤à¤ à¤à¤¨à¤²à¤¾à¤à¤¨,False,,Full Word Match,2025-10-11,
+aesbiologics.com,sbi,ANALYZED,0.1,False,0.0,0.106,0.898,,Coming Soon,False,,Full Word Match,2025-10-11,
+www.spsbiz.top,sbi,ANALYZED,0.271,False,0.3,0.208,0.91,MEDIUM: Suspicious TLD,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+trickortreatandwinsbigtonight.world,sbi,ANALYZED,0.1,False,0.2,0.169,0.853,MEDIUM: Very long domain name,Just a moment...,False,,Full Word Match,2025-10-11,
+merkezwhgsbilgi.sbs,sbi,ANALYZED,0.091,False,0.0,0.208,0.91,,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+onlinesbi-yono-login.ws,sbi,ANALYZED,0.1,False,0.6,0.045,0.914,HIGH: Yono service impersonation,à¤à¤¨à¤²à¤¾à¤à¤¨à¤à¤¸à¤¬à¥à¤à¤ à¤¯à¥à¤¨à¥ à¤²à¥à¤à¤¿à¤¨,False,,Full Word Match,2025-10-11,
+braveandblissbirth.com,sbi,ANALYZED,0.1,False,0.0,0.08,0.92,,Private Site,False,,Full Word Match,2025-10-11,
+vsbi-formation.fr,sbi,ANALYZED,0.091,False,0.0,0.093,0.928,,Vsbi-formation,True,secure; payment; password; transfer,Full Word Match,2025-10-11,
+orpheusbioscience.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.901,,,False,,Full Word Match,2025-10-11,
+sysbilisim.com,sbi,ANALYZED,0.091,False,0.0,0.0,0.949,,,False,,Full Word Match,2025-10-11,
+toursbimini.com,sbi,ANALYZED,0.1,False,0.0,0.314,0.929,,Bimini Tours,True,block; register,Full Word Match,2025-10-11,
+goodsbizmk.click,sbi,ANALYZED,0.1,False,0.3,0.128,0.906,MEDIUM: Suspicious TLD,Welcome to nginx!,False,,Full Word Match,2025-10-11,
+kgmgecisbilgi.sbs,sbi,ANALYZED,0.091,False,0.0,0.208,0.91,,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+proyectosbirth.com,sbi,ANALYZED,0.09,False,0.0,0,0.974,,,False,,Full Word Match,2025-10-11,
+digisbitsandbytes.com,sbi,ANALYZED,0.091,False,0.0,0.163,0.863,,Digi&#039;s Bits and Bytes,True,balance; block; login,Full Word Match,2025-10-11,
+desbinghamassociates.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='desbinghamassociates.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da124131eb0>: Failed to resolve 'desbinghamassociates.com' ([Errno -2] Name or service not known)""))"
+visbilidadetop.com.br,sbi,ANALYZED,0.1,False,0.0,0.105,0.888,,Visibilidade Top| SoluÃ§Ãµes Digitais de Alto Impacto,False,,Full Word Match,2025-10-11,
+casbinyc.org,sbi,ANALYZED,0.091,False,0.0,0,0.936,,,False,,Full Word Match,2025-10-11,
+site4-sbisec.mingyuantai.com,sbi,ANALYZED,0.091,False,0.0,0.207,0.91,,Tripleplay - warning,False,block,Full Word Match,2025-10-11,
+yonosbiappdownload.link,sbi,ANALYZED,0.991,True,1.0,0.144,0.904,HIGH: Yono service impersonation; HIGH: Mobile app impersonation; CRITICAL: YONO SBI service impersonation (yonosbi),Download YONO SBI App for Easy Banking and Financial Management,False,sbi; banking; yono,Full Word Match,2025-10-11,
+lnsbio.xyz,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='lnsbio.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12453c9e0>: Failed to resolve 'lnsbio.xyz' ([Errno -5] No address associated with hostname)""))"
+thomasbiasotto.ch,sbi,ANALYZED,0.1,False,0.0,0.095,0.91,,"Hello, this domain has been purchased at Hostpoint",False,,Full Word Match,2025-10-11,
+nianglesbian.top,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='nianglesbian.top', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12441da00>: Failed to resolve 'nianglesbian.top' ([Errno -5] No address associated with hostname)""))"
+bonniesbigheads.com,sbi,ERROR,0.5,,,,,,,,,Full Word Match,2025-10-11,"HTTPSConnectionPool(host='bonniesbigheads.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7da12441e5d0>, 'Connection to bonniesbigheads.com timed out. (connect timeout=10)'))"
+banking.legal,bobibanking,ERROR,0.5,,,,,,,,,Similarity Jaccard,2025-10-11,"HTTPSConnectionPool(host='banking.legal', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7da12453fcb0>: Failed to resolve 'banking.legal' ([Errno -2] Name or service not known)""))"
+403bmutualfund.shop,bobmutualfund,ANALYZED,0.091,False,0.0,0.057,0.917,,,False,,Similarity Jaccard,2025-10-11,
+403bmutualfund.net,bobmutualfund,ANALYZED,0.091,False,0.0,0.057,0.916,,,False,,Similarity Jaccard,2025-10-11,
+403bmutualfund.info,bobmutualfund,ANALYZED,0.091,False,0.0,0.057,0.917,,,False,,Similarity Jaccard,2025-10-11,
+403bmutualfund.store,bobmutualfund,ANALYZED,0.091,False,0.0,0.057,0.917,,,False,,Similarity Jaccard,2025-10-11,
+bharat-digital.com,bharti-airtel,ANALYZED,0.091,False,0.0,0.057,0.943,,,False,,Similarity Jaro-Winkler,2025-10-11,
+dc.crsorgi.gov.in.viewcertificates.xyz,dc.crsorgi.gov,ANALYZED,0.991,True,1.0,0.112,0.899,MEDIUM: Suspicious TLD; MEDIUM: Very long domain name; CRITICAL: Security service impersonation; CRITICAL: Security service impersonation (certificate),Tripleplay - warning,False,gov; block,Full Word Match,2025-10-11,
